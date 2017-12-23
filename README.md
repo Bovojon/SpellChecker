@@ -1,1 +1,1 @@
-# Haskell_project
+# Haskell Implementation of SpellChecker
