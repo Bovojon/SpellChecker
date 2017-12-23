@@ -1,1 +1,1 @@
-# Haskell Implementation of SpellChecker
+# Haskell Implementation of a SpellChecker
